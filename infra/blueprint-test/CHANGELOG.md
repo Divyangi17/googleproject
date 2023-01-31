@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.5.0](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/compare/infra/blueprint-test/v0.4.1...infra/blueprint-test/v0.5.0) (2023-01-31)
+
+
+### Features
+
+* update blueprint-test to GO 1.18 and test fixes ([#1373](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/issues/1373)) ([0234ad6](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/commit/0234ad6f0da169aec58a9fd848094907aa4b6851))
+
+
+### Bug Fixes
+
+* update blueprint-test for kpt v1.0.0-beta.16+ ([#1367](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/issues/1367)) ([3613491](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/commit/36134916e2fd859b0aea4384c1b4a5ab79d65eac))
+
 ## [0.4.1](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/compare/infra/blueprint-test/v0.4.0...infra/blueprint-test/v0.4.1) (2023-01-10)
 
 
